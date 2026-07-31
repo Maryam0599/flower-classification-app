@@ -1,2 +1,15 @@
-# flower-classification-app
-A flower classification project built using Python, TensorFlow, and Streamlit. I trained a CNN model to classify flower images and created a simple web application where users can upload an image and get a prediction. This project helped me practice deep learning, image processing, and deploying machine learning models.
+
+## 🌸 Flower Classifier Web App
+
+A Streamlit web app that classifies 5 types of flowers
+using a CNN model trained on 4,317 images.
+
+### How to run locally:
+1. Clone this repository
+2. Download flower_model.h5 and place in same folder
+3. Run: streamlit run app.py
+
+### Technologies used:
+- TensorFlow/Keras (CNN model)
+- Streamlit (web interface)
+- Python
